@@ -10,7 +10,7 @@
 
 
 using ConsoleApp;
-
+//Changed the variable name
 List<User> users = new List<User>();
 
 AddUser(users, "Jake", "Gift");
